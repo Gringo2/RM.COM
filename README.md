@@ -14,5 +14,5 @@
 
 ### Demo Screeshots
 
-![Realvine Desktop Demo](./readme-images/ "Desktop Demo")
+![RM.COM Desktop Demo](./readme-images/ "Ecommerce")
 
